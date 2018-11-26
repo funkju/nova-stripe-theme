@@ -1,6 +1,6 @@
 {
-    "name": "jameslkingsley/nova-stripe-theme",
-    "description": "A Laravel Nova theme closely resembling Stripe.",
+    "name": "funkju/nova-stripe-theme",
+    "description": "A [forked] Laravel Nova theme closely resembling Stripe.",
     "keywords": [
         "laravel",
         "nova"
